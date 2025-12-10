@@ -4,7 +4,12 @@ A Reels-style social food discovery app featuring vertical video feeds, dual use
 
 One-line summary:  Responsive interface with secure auth and smooth media playback, showcasing restaurants and dishes via a Reels-style feed.
 
-![WhatsApp Image 2025-12-11 at 02 13 52] (https://github.com/user-attachments/assets/e6b61f13-2d9f-4e2e-a5f5-5574d36c944d)
+
+https://github.com/user-attachments/assets/bbcf3a13-9431-4696-917d-9a23e1450682
+
+
+
+
 
 
 
